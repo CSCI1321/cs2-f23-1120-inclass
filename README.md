@@ -1,1 +1,2 @@
-# Blank project Setup for gradle-javafx-vscode (v11)
+# Reposiroty of Code Examples from CSCI 1321 - Fall 23 - 11:20am section
+
